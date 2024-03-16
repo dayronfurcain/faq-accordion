@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FAQ accordion](https://github.com/dayronfurcain/faq-accordion)
+- Live Site URL: [FAQ accordion](https://dayronfurcain.github.io/faq-accordion/)
 
 ## My process
 
